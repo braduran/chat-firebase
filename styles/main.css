@@ -1,0 +1,23 @@
+html, body {
+    font-family: 'Times New Roman', 'Arial';
+}
+
+.encabezado{
+    background-color: rgb(209, 102, 2);
+}
+
+#user-container #user-pic{
+    margin-left: 70%;
+}
+
+#user-name, .mdl-layout-title{
+    color: white;
+}
+
+#sign-out{
+    text-align: center;
+}
+
+.message{
+    color: black;
+}
